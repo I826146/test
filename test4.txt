@@ -1,1 +1,2 @@
 New file just to test the diff again.
+I'm now adding some more text here.
