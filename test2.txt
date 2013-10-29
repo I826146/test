@@ -1,1 +1,2 @@
 New file just to test the merge.
+Line #2.
